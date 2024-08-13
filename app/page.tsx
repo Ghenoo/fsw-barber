@@ -1,13 +1,7 @@
-"use client";
-
-import { useState } from "react";
+import { Button } from './_components/ui/button';
 
 const Home = () => {
-  // biome-ignore lint/correctness/noEmptyPattern: <explanation>
-  const [] = useState();
-  // biome-ignore lint/a11y/useButtonType: <explanation>
-  // biome-ignore lint/style/useSelfClosingElements: <explanation>
-    return <button></button>;
-};
+ return <Button>Click me</Button>
+}
 
 export default Home;
