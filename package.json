@@ -16,7 +16,7 @@
     "-": "^0.0.1",
     "@prisma/client": "^5.18.0",
     "@radix-ui/react-slot": "^1.1.0",
-    "biome": "^0.3.3",
+    "biome": "^0.2.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "fsw-barber": "file:",
@@ -40,7 +40,9 @@
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.6",
     "prisma": "^5.18.0",
-    "tailwindcss": "^3.4.9",
+    "stylelint": "^16.8.1",
+    "stylelint-config-tailwindcss": "^0.0.7",
+    "tailwindcss": "^3.4.10",
     "ts-node": "^10.9.2",
     "typescript": "^5"
   }
